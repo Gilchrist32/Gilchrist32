@@ -6,7 +6,7 @@ Kindly visit my Official Website https://gcofficial-portfolio.netlify.app
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Josom Software, Inc.
 - 🌱 I’m currently learning in vuejs and hasura graphql for backend dev
 - 👯 I’m looking  for another projects, Kindly contact me if you are interested
 - ⚡ Fun fact: I have a lot of business idea 
